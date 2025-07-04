@@ -2,7 +2,7 @@ from TikTokLive import TikTokLiveClient
 from TikTokLive.events import ConnectEvent, CommentEvent, GiftEvent, FollowEvent, LikeEvent
 
 client = TikTokLiveClient(
-    unique_id="@delightmb",
+    unique_id="@lolajbunny",
 )
 
 MONEY_PER_DIAMOND = 0.005
